@@ -1,0 +1,20 @@
+F:\eCommerce Project in ASP .Net MVC - Tutorials to Project\Project\ECom\ECom.Entities\bin\Debug\ECom.Entities.dll.config
+F:\eCommerce Project in ASP .Net MVC - Tutorials to Project\Project\ECom\ECom.Entities\bin\Debug\ECom.Entities.dll
+F:\eCommerce Project in ASP .Net MVC - Tutorials to Project\Project\ECom\ECom.Entities\bin\Debug\ECom.Entities.pdb
+F:\eCommerce Project in ASP .Net MVC - Tutorials to Project\Project\ECom\ECom.Entities\bin\Debug\EntityFramework.dll
+F:\eCommerce Project in ASP .Net MVC - Tutorials to Project\Project\ECom\ECom.Entities\bin\Debug\EntityFramework.SqlServer.dll
+F:\eCommerce Project in ASP .Net MVC - Tutorials to Project\Project\ECom\ECom.Entities\bin\Debug\EntityFramework.xml
+F:\eCommerce Project in ASP .Net MVC - Tutorials to Project\Project\ECom\ECom.Entities\bin\Debug\EntityFramework.SqlServer.xml
+F:\eCommerce Project in ASP .Net MVC - Tutorials to Project\Project\ECom\ECom.Entities\obj\Debug\ECom.Entities.csprojResolveAssemblyReference.cache
+F:\eCommerce Project in ASP .Net MVC - Tutorials to Project\Project\ECom\ECom.Entities\obj\Debug\ECom.Entities.dll
+F:\eCommerce Project in ASP .Net MVC - Tutorials to Project\Project\ECom\ECom.Entities\obj\Debug\ECom.Entities.pdb
+F:\eCommerce Project in ASP .Net MVC - Tutorials to Project\Project\1 to 14\ECom\ECom.Entities\bin\Debug\ECom.Entities.dll.config
+F:\eCommerce Project in ASP .Net MVC - Tutorials to Project\Project\1 to 14\ECom\ECom.Entities\bin\Debug\ECom.Entities.dll
+F:\eCommerce Project in ASP .Net MVC - Tutorials to Project\Project\1 to 14\ECom\ECom.Entities\bin\Debug\ECom.Entities.pdb
+F:\eCommerce Project in ASP .Net MVC - Tutorials to Project\Project\1 to 14\ECom\ECom.Entities\bin\Debug\EntityFramework.dll
+F:\eCommerce Project in ASP .Net MVC - Tutorials to Project\Project\1 to 14\ECom\ECom.Entities\bin\Debug\EntityFramework.SqlServer.dll
+F:\eCommerce Project in ASP .Net MVC - Tutorials to Project\Project\1 to 14\ECom\ECom.Entities\bin\Debug\EntityFramework.xml
+F:\eCommerce Project in ASP .Net MVC - Tutorials to Project\Project\1 to 14\ECom\ECom.Entities\bin\Debug\EntityFramework.SqlServer.xml
+F:\eCommerce Project in ASP .Net MVC - Tutorials to Project\Project\1 to 14\ECom\ECom.Entities\obj\Debug\ECom.Entities.csprojResolveAssemblyReference.cache
+F:\eCommerce Project in ASP .Net MVC - Tutorials to Project\Project\1 to 14\ECom\ECom.Entities\obj\Debug\ECom.Entities.dll
+F:\eCommerce Project in ASP .Net MVC - Tutorials to Project\Project\1 to 14\ECom\ECom.Entities\obj\Debug\ECom.Entities.pdb
